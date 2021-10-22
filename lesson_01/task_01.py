@@ -1,0 +1,7 @@
+num_1 = input("Введите число 1: ")
+num_2 = input("Введите число 2: ")
+num_3 = input("Введите число 3: ")
+string_1 = input("Введите слово 1: ")
+string_2 = input("Введите слово 2: ")
+string_3 = input("Введите слово 3: ")
+print(num_1, num_2, num_3, string_1, string_2, string_3)
